@@ -1,4 +1,4 @@
-**Privacy Policy**
+**Privacy Policy for SaveUP App**
 
 This privacy policy applies to the SaveUP app (hereby referred to as "Application") for mobile devices that was created by Benedikt Alexander Laufer (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
@@ -32,7 +32,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-01-24
+This privacy policy is effective as of 2025-01-01
 
 **Your Consent**
 
